@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.csproj": true,
+        "**/*.sln": true,
+        "**/*.meta": true,
+    }
+}
